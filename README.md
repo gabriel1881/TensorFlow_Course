@@ -1,6 +1,6 @@
 # TensorFlow DeepLearning.AI Course Notes
 
-This repository contains my personal notes and Jupyter Notebooks from the **DeepLearning.AI TensorFlow Developer Professional Certificate** on **Coursera**. The course covers the fundamentals of deep learning with TensorFlow, exploring practical implementations across multiple domains like computer vision, natural language processing, and time-series analysis.
+This repository contains my personal Jupyter Notebooks from the **DeepLearning.AI TensorFlow Developer Professional Certificate** on **Coursera**. The course covers the fundamentals of deep learning with TensorFlow, exploring practical implementations across multiple domains like computer vision, natural language processing, and time-series analysis.
 
 ## Course Overview
 
