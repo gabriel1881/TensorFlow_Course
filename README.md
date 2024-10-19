@@ -1,5 +1,5 @@
 # Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
-Course Overview
+
 The course consists of four main modules, each covering essential concepts in machine learning and TensorFlow. Here's a summary of each module:
 
 1. A New Programming Paradigm (Introduction to Neural Networks)
